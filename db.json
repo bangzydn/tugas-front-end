@@ -1,0 +1,56 @@
+{
+  "stuff": [
+    {
+      "id": "a2de",
+      "name": "Glass",
+      "price": "7",
+      "category": "Furniture"
+    },
+    {
+      "id": "6d49",
+      "name": "Door",
+      "price": "12",
+      "category": "Furniture"
+    },
+    {
+      "id": "5646",
+      "name": "Key",
+      "price": "5",
+      "category": "Furniture"
+    },
+    {
+      "id": "2bbd",
+      "name": "Laptop",
+      "price": "200",
+      "category": "Electronic"
+    },
+    {
+      "id": "d7aa",
+      "name": "Pizza",
+      "price": "17",
+      "category": "Food"
+    }
+  ],
+  "category": [
+    {
+      "id": "2bbd",
+      "name": "Furnitures"
+    },
+    {
+      "id": "5cec",
+      "name": "Electronic"
+    },
+    {
+      "id": "aa12",
+      "name": "Food"
+    },
+    {
+      "id": "9ad8",
+      "name": "Beverages"
+    },
+    {
+      "id": "8f8c",
+      "name": "Tools"
+    }
+  ]
+}
